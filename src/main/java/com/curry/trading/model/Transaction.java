@@ -9,6 +9,12 @@ public class Transaction {
     private String traderId;
     private double value;
 
+    public Transaction(String timestamp, String traderId, double value) {
+        this.timestamp = timestamp;
+        this.traderId = traderId;
+        this.value = value;
+    }
+
     public String getTimestamp() {
         return timestamp;
     }
