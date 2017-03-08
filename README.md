@@ -9,3 +9,6 @@ Java 8 or higher
 1. Download from [release](https://github.com/curryshih/trading-exercise/releases).
 
 2. Run /bin/trading-exercise
+
+
+test master
