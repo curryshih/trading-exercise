@@ -13,6 +13,8 @@ Java 8 or higher
 3. add curry
 
 
+add curry5
+
 test master
 
 add curry1
