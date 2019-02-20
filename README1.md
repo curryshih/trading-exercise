@@ -27,3 +27,5 @@ add curry2
 
 add curry4
 
+add curry6
+
