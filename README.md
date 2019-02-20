@@ -16,3 +16,5 @@ test master
 add curry1
 
 add curry2
+
+add curry3

@@ -10,6 +10,8 @@ Java 8 or higher
 
 2. Run /bin/trading-exercise
 
+3. add curry
+
 
 test master
 
