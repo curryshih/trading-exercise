@@ -14,3 +14,5 @@ Java 8 or higher
 test master
 
 add curry1
+
+add curry2
