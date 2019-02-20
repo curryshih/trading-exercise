@@ -17,6 +17,8 @@ add curry5
 
 add curry3
 
+add curry5
+
 test master
 
 add curry1
